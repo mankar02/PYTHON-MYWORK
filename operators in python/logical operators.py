@@ -1,0 +1,8 @@
+print(3>1 and 4 in [1,2,3])
+print(1>2 and 2<3 and 1>3)
+print(1>2 or 2<3)
+print(not 1>2)
+print(all([1<2 and 2<3]))
+print(all([1<2 and 2>3]))
+print(any([1>2 and 2<3]))
+print(not any([1>2 and 2<3]))
